@@ -1,0 +1,13 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="foto.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+I like to solve problems. My main work has been in probability but in pararell I have been working on consulting problems which require statistics and programming skills. Currently I am moving towards bioinformatics. I am collaborating in a metiloma project. 
+
+I graduated from the [Universidad Autonoma de Sinaloa (UAS)](http://http://fcfm.uas.edu.mx/portal/) with a BS in mathematics in 2006. In 2007 I started my MS at the [University of Texas - El Paso](https://www.utep.edu/science/math/) with concentration in numerical optmization and I graduted two years later. Immediately I began working toward my PHD at [University of North Texas](https://www.math.unt.edu), where I worked in an extension of the classical secretary prolem (CSP) in the field of applied probability under the the advisement of [Dr. Pieter Allaart](http://math.unt.edu/people/pieter-allaart). I graduated in 2015 and I'm currently an assistant professor at UAS in the [Physics and Mathematics](http://fcfm.uas.edu.mx/portal/) department.
+
+
+My full CV is available [here](CV.pdf).
