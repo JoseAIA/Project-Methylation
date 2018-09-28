@@ -1,18 +1,16 @@
-name: "José A. Islas Anguiano"
+name: "The methylation project"
 output_dir: "."
 navbar:
-  title: "José A. Islas Anguiano"
+  title: "The methylation project"
   left:
-    - text: "Research"
-      href: research.html
-    - text: "Presentations"
-      href: presentations.html
-    - text: "Programming"
-      href: programming.html
-    - text: "Teaching"
-      href: teaching.html
-    - text: "Publications"
-      href: publications.html
+    - text: "Contents"
+      href: content.html
+    - text: "Example analysis"
+      href: example.html
+    - text: "List of variables"
+      href: listvars.html
+    - text: "References"
+      href: references.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
